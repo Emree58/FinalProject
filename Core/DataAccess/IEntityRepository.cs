@@ -1,10 +1,10 @@
-﻿using Entities.Abstract;
+﻿using Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace DataAccess.Abstract
+namespace Core.DataAccess
 {
     //Generic constraint (generik kisitlama) where T:class welke T? enkel class
     //Class : referans tip olacak, IEntitiyden implement edecek yada IEntitye bagli class
