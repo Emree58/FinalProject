@@ -29,3 +29,5 @@ namespace DataAccess.Concrete.EntityFramework
         }
     }
 }
+
+//ders 9 01:28:17
